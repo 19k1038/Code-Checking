@@ -1,8 +1,6 @@
 version = 1
 
-[[analyzers]]
-name = "test-coverage"
-enabled = true
+test_patterns = ["https://github.com/19k1038/Code-Checking/blob/main/code1.txt"]
 
 [[analyzers]]
 name = "java"
