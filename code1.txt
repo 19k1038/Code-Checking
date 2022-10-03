@@ -1,0 +1,18 @@
+class main {
+    public static void main(String args[])
+    {
+        int arr[] = new int[5];
+          int a;
+           String haider;
+            int b;
+               int c=3;
+ 
+        
+ if (foo = 5)
+  foo == 7;
+ 
+        arr[9] = 250;
+ 
+        System.out.println("Value assigned! ");
+    }
+}
