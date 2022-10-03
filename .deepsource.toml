@@ -1,7 +1,5 @@
 version = 1
 
-test_patterns = ["https://github.com/19k1038/Code-Checking/blob/main/code1.txt"]
-
 [[analyzers]]
 name = "java"
 enabled = true
